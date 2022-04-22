@@ -7,81 +7,9 @@
       "role": "Frontend software developer.",
       "lastName": "Ceranic",
       "id": 4
-    },
-    {
-      "email": "markus123@gmail.com",
-      "password": "$2a$10$WNCJwg2Ll4WRJnA1LedFQOF8KA.zC3m7JWhiHILptYe3gsiJEzneq",
-      "firstName": "Markus",
-      "role": "Frontend software developer.",
-      "lastName": "Johnoton",
-      "id": 5
-    },
-    {
-      "email": "amanda123@gmail.com",
-      "password": "$2a$10$b46cXB7DcexibfSposq5iuvHw1X276M8S4O7Rw6BItT2EC5PSDSwG",
-      "role": "Frontend software developer.",
-      "firstName": "Amanda",
-      "lastName": "Donald",
-      "id": 6
-    },
-    {
-      "email": "rose123@test.com",
-      "password": "$2a$10$ARxChwqhf4ZUJN8Np.5oE.QT38qh/MdNvJw3s3k1PiE2YT5d4AIme",
-      "role": "Frontend software developer.",
-      "firstName": "Rose",
-      "lastName": "Tuttre",
-      "id": 7
-    },
-    {
-      "email": "amus123@test.com",
-      "password": "$2a$10$.Txj4N19LgfV6U7TJcgXIOrOu9Pkw5uX9ON4CfW7WCN7aST38L/mu",
-      "firstName": "Amus",
-      "lastName": "Drox",
-      "role": "SW dev",
-      "id": 8
     }
   ],
   "feedbacks": [
-    {
-      "id": 1,
-      "userId": 4,
-      "reporterId": 5,
-      "updatedAt": "2022-01-01T09:46:08.851Z",
-      "createdAt": "2022-01-01T09:46:08.851Z",
-      "content": "You did great job at yesterday's retrospective!!! Congrats!!!"
-    },
-    {
-      "userId": 5,
-      "reporterId": 4,
-      "content": "Testing comment.",
-      "updatedAt": "2022-04-21T12:58:51.104Z",
-      "createdAt": "2022-04-21T12:58:51.104Z",
-      "id": 2
-    },
-    {
-      "userId": 5,
-      "reporterId": 4,
-      "content": "Testing comment No.2.",
-      "updatedAt": "2022-04-21T13:17:00.790Z",
-      "createdAt": "2022-04-21T13:17:00.790Z",
-      "id": 3
-    },
-    {
-      "userId": null,
-      "reporterId": 4,
-      "content": "Leaving comment that will be deleted.",
-      "updatedAt": "2022-04-22T11:11:24.804Z",
-      "createdAt": "2022-04-22T11:11:24.804Z",
-      "id": 4
-    },
-    {
-      "userId": null,
-      "reporterId": 4,
-      "content": "Leaving comment that will be deleted.",
-      "updatedAt": "2022-04-22T11:11:31.510Z",
-      "createdAt": "2022-04-22T11:11:31.510Z",
-      "id": 5
-    },
     {
       "userId": 4,
       "reporterId": 4,
@@ -89,38 +17,6 @@
       "updatedAt": "2022-04-22T11:21:33.783Z",
       "createdAt": "2022-04-22T11:21:33.783Z",
       "id": 6
-    },
-    {
-      "userId": 4,
-      "reporterId": 4,
-      "content": "csdsdsdsdsds",
-      "updatedAt": "2022-04-22T11:21:35.519Z",
-      "createdAt": "2022-04-22T11:21:35.519Z",
-      "id": 7
-    },
-    {
-      "userId": 4,
-      "reporterId": 4,
-      "content": "csdsdsdsdsdsdsdsdsds",
-      "updatedAt": "2022-04-22T11:21:37.431Z",
-      "createdAt": "2022-04-22T11:21:37.431Z",
-      "id": "8"
-    },
-    {
-      "userId": 4,
-      "reporterId": 4,
-      "content": "csdsdsdsdsdsdsdsdsdsdsdsdsd",
-      "updatedAt": "2022-04-22T11:21:39.416Z",
-      "createdAt": "2022-04-22T11:21:39.416Z",
-      "id": 9
-    },
-    {
-      "userId": 4,
-      "reporterId": 4,
-      "content": "csdsdsdsdsdsdsdsdsdsdsdsdsdddsdsd",
-      "updatedAt": "2022-04-22T11:21:40.930Z",
-      "createdAt": "2022-04-22T11:21:40.930Z",
-      "id": 10
     }
   ]
 }
