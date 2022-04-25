@@ -1,22 +1,142 @@
 {
   "users": [
     {
+      "firstName": "Laura",
+      "lastName": "Dots",
+      "role": "Dev1",
       "email": "merima123@test.com",
-      "password": "$2a$10$1P5NEjs3/L11VKdoq8uPKuE4O9vWkswISxafVGShWfM6/eFekQ9VC",
-      "firstName": "Merima",
-      "role": "Frontend software developer.",
-      "lastName": "Ceranic",
+      "password": "$2a$10$6pBEQ4HErZXHsXV10J5CBe2EPvcsT.oIltljwrQ47ag61Szbi4p.2",
       "id": 4
+    },
+    {
+      "email": "amanda123@gmail.com",
+      "password": "$2a$10$lSWmm0I6QOknqqRIdetf0.jluxU1VtrZRcHUim/cGmtqMvOycJaw.",
+      "firstName": "Amanda",
+      "lastName": "Rodrigues",
+      "role": "SW dev",
+      "id": 5
+    },
+    {
+      "email": "tree123@test.com",
+      "password": "$2a$10$5Xfa5iapxTWEyM2Cav/S6uEsrkGVA98VNhco8p0XJ8zXcXPO4xu4S",
+      "firstName": "Julio ",
+      "lastName": "Tree",
+      "role": "SW dev",
+      "id": 6
+    },
+    {
+      "email": "peter@test.com",
+      "password": "$2a$10$I1Xg33aNLEqaf.98GYaCJOcXcm.gt0z/wX1A28n6wYT2Mb9GSoYyW",
+      "firstName": "Peter",
+      "lastName": "August",
+      "role": "QA eng",
+      "id": 7
+    },
+    {
+      "email": "sumerio123@test.com",
+      "password": "$2a$10$aB63RNYczcbV0zwjf/Gz4eqJAlbmZ9dP7/nwGji.X0rhOxQAKsiXK",
+      "firstName": "Robby",
+      "lastName": "Sumerio",
+      "role": "Architect ",
+      "id": 8
+    },
+    {
+      "email": "paradiso123@test.com",
+      "password": "$2a$10$HO6i2p3dNmN.I/su8JSRRubW.0QVcgf19cRDRdDZZQb0E3t/TXWU6",
+      "firstName": "Tree",
+      "lastName": "Paradiso",
+      "role": "Artist",
+      "id": 9
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$77NWkr0TPD95Izg9DKH/uO6F78u.xJlAtz43mL6I/J/LUmu3I./dO",
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "role": "Admin",
+      "id": 10
     }
   ],
   "feedbacks": [
     {
       "userId": 4,
       "reporterId": 4,
-      "content": "csdsds",
-      "updatedAt": "2022-04-22T11:21:33.783Z",
+      "content": "testing",
+      "updatedAt": "2022-04-22T13:53:18.116Z",
       "createdAt": "2022-04-22T11:21:33.783Z",
       "id": 6
+    },
+    {
+      "userId": 4,
+      "reporterId": 4,
+      "content": "Testing comment.",
+      "updatedAt": "2022-04-22T15:02:25.749Z",
+      "createdAt": "2022-04-22T12:32:45.649Z",
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "reporterId": 10,
+      "content": "You must improve your skills!!!",
+      "updatedAt": "2022-04-25T08:14:04.850Z",
+      "createdAt": "2022-04-25T08:14:04.850Z",
+      "id": 8
+    },
+    {
+      "userId": 5,
+      "reporterId": 10,
+      "content": "Great presentation was held by you today!!!! Kudos!!!😍",
+      "updatedAt": "2022-04-25T08:15:13.037Z",
+      "createdAt": "2022-04-25T08:15:13.037Z",
+      "id": 9
+    },
+    {
+      "userId": 6,
+      "reporterId": 10,
+      "content": "I learned a lot from you, thank you mate a lot! 💕",
+      "updatedAt": "2022-04-25T08:16:02.798Z",
+      "createdAt": "2022-04-25T08:16:02.798Z",
+      "id": 10
+    },
+    {
+      "userId": 7,
+      "reporterId": 10,
+      "content": "Wow, your talk with clients was perfect!! Great job 👏 ",
+      "updatedAt": "2022-04-25T08:17:24.099Z",
+      "createdAt": "2022-04-25T08:17:24.099Z",
+      "id": 11
+    },
+    {
+      "userId": 8,
+      "reporterId": 10,
+      "content": "Need to improve soft skills. You have great tech skills, but soft are important as well!! ",
+      "updatedAt": "2022-04-25T08:18:41.831Z",
+      "createdAt": "2022-04-25T08:18:41.831Z",
+      "id": 12
+    },
+    {
+      "userId": 4,
+      "reporterId": 10,
+      "content": "Great job man!!👌🏻",
+      "updatedAt": "2022-04-25T09:44:31.095Z",
+      "createdAt": "2022-04-25T09:42:48.410Z",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "reporterId": 10,
+      "content": "hey, that was amazing job! we are proud to have you in the team. ",
+      "updatedAt": "2022-04-25T09:53:27.465Z",
+      "createdAt": "2022-04-25T09:53:27.465Z",
+      "id": 14
+    },
+    {
+      "userId": 4,
+      "reporterId": 10,
+      "content": "I add comment so I can delete it.",
+      "updatedAt": "2022-04-25T12:52:11.204Z",
+      "createdAt": "2022-04-25T12:52:11.204Z",
+      "id": 15
     }
   ]
 }
