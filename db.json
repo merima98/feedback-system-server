@@ -49,12 +49,108 @@
       "id": 9
     },
     {
-      "email": "admin@gmail.com",
-      "password": "$2a$10$77NWkr0TPD95Izg9DKH/uO6F78u.xJlAtz43mL6I/J/LUmu3I./dO",
       "firstName": "Admin",
       "lastName": "Admin",
       "role": "Admin",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$yfwpIkJmkgxxFqAQDcvaV.v2n7RbLhzxWWtttpPFZ7vRIPByUfAyq",
       "id": 10
+    },
+    {
+      "firstName": "JohnChanging",
+      "lastName": "Doe",
+      "role": "Software developer",
+      "email": "john.doe0.398921260714423@test.com",
+      "password": "$2a$10$whaSA49iX9a1NDCIMFhPsu0MNxrDJRxF0dp7yPbrSM7rDTXDTY60W",
+      "id": 11
+    },
+    {
+      "firstName": "JohnChanging",
+      "lastName": "Doe",
+      "role": "Software developer",
+      "email": "john.doe0.23330328155094282@test.com",
+      "password": "$2a$10$7vm.lLI8k3S4taCDqfjgL.4NGOX3hFImtGqLnBx6im7bq3BUhMrKS",
+      "id": 12
+    },
+    {
+      "firstName": "JohnChanging",
+      "lastName": "Doe",
+      "role": "Software developer",
+      "email": "john.doe0.44289163957521427@test.com",
+      "password": "$2a$10$ypKdheq2RTsqaW/X5B5nb.h.DsxxG4m9z5RMxpd5/8109kf599QUm",
+      "id": 13
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doee",
+      "role": "Software developer",
+      "email": "john.doe0.5541407036544952@test.com",
+      "password": "$2a$10$OGaZNWveYqEgmmCbryEQxOT2to6maebk4uML59XX9w5v4U9xqmgHS",
+      "id": 14
+    },
+    {
+      "email": "john.doe0.3509367003154553@test.com",
+      "password": "$2a$10$LITuYfXvmz49osVfgOrJTe/lx66ymMcvrkVpISjMXbqbbeID7quTG",
+      "firstName": "John",
+      "lastName": "Doe",
+      "role": "Software developer",
+      "id": 15
+    },
+    {
+      "email": "aggata1111@gmail.com",
+      "password": "$2a$10$vYpcKx3KvowmMUxjdJyrSua1TPC8K10nLr1iaHXlUzDRm42gN1/LW",
+      "firstName": "merimatesting",
+      "lastName": "merima",
+      "role": "aggata1111",
+      "id": 16
+    },
+    {
+      "email": "testing124@gmail.com",
+      "password": "$2a$10$q4km8eTzJEQYoWTklfN1QOruA5iT5VGiGxBJCmRMmpFpRvkLBs/Y2",
+      "firstName": "merima123",
+      "lastName": "merima",
+      "role": "testing124",
+      "id": 17
+    },
+    {
+      "email": "rose432@test.com",
+      "password": "$2a$10$BtwYjFGjZNviK4kjz9I1I.dP0PWjeUA./9mVWYmB2B2f6ZL1XP9jG",
+      "firstName": "temp",
+      "lastName": "temp",
+      "role": "amanda",
+      "id": 18
+    },
+    {
+      "email": "merima123@testing.com",
+      "password": "$2a$10$1uSkKDbgNUiXNVt6WH4c2umtTDK.6OKlkdYf8BRk7SifTJHQABGjK",
+      "firstName": "merima123",
+      "lastName": "merima123",
+      "role": "testing",
+      "id": 19
+    },
+    {
+      "email": "changign@test.com",
+      "password": "$2a$10$CneUW9kSidW.j/6dn5LrKeaZNUZb8t0hdsv6HGfqmgeMSxy1BXWee",
+      "firstName": "changing",
+      "lastName": "changing",
+      "role": "changign",
+      "id": 20
+    },
+    {
+      "email": "testing123@testing.com",
+      "password": "$2a$10$7NtMt8AfkTNuN0gae9vnIeU23.h7XGwzRxFLENSeMhfthwAEaMXnW",
+      "firstName": "testing122",
+      "lastName": "testing123",
+      "role": "testing123",
+      "id": 21
+    },
+    {
+      "email": "john.doe0.04853710562128488@test.com",
+      "password": "$2a$10$w88mmfpAlHmSk98pr4svnON.2MBmgc/ijuRZeN2yxF/K4udIH7w/e",
+      "firstName": "John 0.4546199697822928",
+      "lastName": "Doe",
+      "role": "Software developer",
+      "id": 22
     }
   ],
   "feedbacks": [
@@ -137,6 +233,46 @@
       "updatedAt": "2022-04-25T12:52:11.204Z",
       "createdAt": "2022-04-25T12:52:11.204Z",
       "id": 15
+    },
+    {
+      "userId": 4,
+      "reporterId": 10,
+      "content": "You did great job on today's presentation!!👌🏻",
+      "updatedAt": "2022-04-26T13:52:50.432Z",
+      "createdAt": "2022-04-26T13:52:50.432Z",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "reporterId": 10,
+      "content": "You did great job on today's presentation!!👌🏻",
+      "updatedAt": "2022-04-26T13:53:05.219Z",
+      "createdAt": "2022-04-26T13:53:05.219Z",
+      "id": 17
+    },
+    {
+      "userId": 4,
+      "reporterId": 13,
+      "content": "You did great job on today's presentation!!👌🏻",
+      "updatedAt": "2022-04-26T14:19:44.815Z",
+      "createdAt": "2022-04-26T14:19:44.815Z",
+      "id": 18
+    },
+    {
+      "userId": 4,
+      "reporterId": 12,
+      "content": "You did great job on today's presentation!!👌🏻",
+      "updatedAt": "2022-04-26T14:41:08.467Z",
+      "createdAt": "2022-04-26T14:41:08.467Z",
+      "id": 19
+    },
+    {
+      "userId": 4,
+      "reporterId": 14,
+      "content": "You did great job on today's presentation!!👌🏻",
+      "updatedAt": "2022-04-26T14:44:34.559Z",
+      "createdAt": "2022-04-26T14:44:34.559Z",
+      "id": 20
     }
   ]
 }
